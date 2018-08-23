@@ -9,4 +9,5 @@ Additional protocol for adding documents to this repository is as follows:
 3. Line spacing is 1.5 units
 4. Boiler plate text is in black
 5. Text to be replaced is in red
+6. Terms which relate to specific project stages and roles are emphasised by bold type and are underlined. This alos applies to abbreviations.
 
