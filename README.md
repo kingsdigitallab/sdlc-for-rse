@@ -1,14 +1,15 @@
 # sdlc-for-rse
-A repository for documentation and processes for software development in a research setting. This repo was created on Aug 22 2018 and is a work in progress
+A repository for documentation and processes for software development in a research setting. 
 
-The documentation included in this repository should be in Open Document Format (ODF) ISO/IEC 26300 to esnure non-reliance on proprietary standards.
+This repo was started on Aug 22 2018 and is intended to be an evolving piece of work.
 
-The documents are designed to ensure maximum availability across operating systems, using common fonts. The original documentation has been prepared using LibreOffice 6.1.0.3 (https://www.libreoffice.org/)
+The documentation files included in this repository should be in Open Document Format (ODF) ISO/IEC 26300, to esnure non-reliance on proprietary standards.
 
+The documents designs and format are minimalist to ensure maximum availability across operating systems, using common fonts. The original documentation has been prepared using LibreOffice 6.1.0.3 (https://www.libreoffice.org/)
 
-Additional protocol for adding documents to this repository is as follows:
-1. Headers are presented in Helvetica
-2. Body text is presented in Times
+Additional conventions for adding documents to this repository is as follows:
+1. Headers are presented in Helvetica (18pt, 16pt, 14pt)
+2. Body text is presented in Times (11pt)
 3. Line spacing is 1.5 units
 4. Boiler plate text is in black
 5. Text to be replaced is in red
