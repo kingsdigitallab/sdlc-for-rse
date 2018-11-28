@@ -3,7 +3,7 @@ A repository for documentation and processes for software development in a resea
 
 This repo was started on Aug 22 2018 and is intended to be an evolving piece of work.
 
-The documentation files included in this repository should be in Open Document Format (ODF) ISO/IEC 26300, to esnure non-reliance on proprietary standards.
+The documentation files included in this repository should be in Open Document Format (ODF) ISO/IEC 26300, to ensure non-reliance on proprietary standards.
 
 The documents designs and format are minimalist to ensure maximum availability across operating systems, using common fonts. The original documentation has been prepared using LibreOffice 6.1.0.3 (https://www.libreoffice.org/)
 
