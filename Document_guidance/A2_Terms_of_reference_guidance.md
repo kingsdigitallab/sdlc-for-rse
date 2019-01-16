@@ -68,17 +68,19 @@ _**Should Have** requirements are those that would significantly improve workflo
 
 _**Could Have** requirements are those that provide marginal improvements in workflow and may be aesthetic or of tertiary importance to the core research goals._
 
-_**Won't Have** requirements are those that are likely to be aspirational in nature but present significant technical and practical obstacles given the timeframe and funding proposed. They may present very marginal benefits to the overall project goal, or may be more suited to follow on research pending the successful completion of the initial project._
+_**Won't Have** requirements are those that are aspirational in nature but present significant technical and practical obstacles given the timeframe and funding proposed or allowing for the current technical landscape. They may present very marginal benefits to the overall project goal or may be more suited to follow on research pending the successful completion of the initial project._
 
 The matrix below offers some prompts and key questions for effectively completing this section. It is not exhaustive, but aims to stimulate internal conversation in a productive way.
 
-
+|**Example questions and prompts**| **Check**  ||
+|--|--|--|
+|<![endif]--> Will the project require dedicated infrastructure?
 
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xNDAwMz
-g5NzU4LDExNDc4MjUwNF19
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xODM2MD
+QyMzMxLDExNDc4MjUwNF19
 -->
