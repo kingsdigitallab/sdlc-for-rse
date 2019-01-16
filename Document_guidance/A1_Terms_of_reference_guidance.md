@@ -4,7 +4,7 @@ The Terms of Reference (ToR) document is created based on initial contact with t
 
 If the RSE team choose to adopt a [Project Planning](https://github.com/kingsdigitallab/sdlc-for-rse/blob/master/Glossary_of_terms.md/#project-planning) stage the information in th document can be used to inform decisions about whether or not the research fits well with your institutional goals and your team remit. It may also be a helpful early indicator of feasibility.
 
-At a minimum it should cover the high-level concepts in sufficient detail to enable discussion of the appropriate technical and management strategies with entire RSE team at the [Feasibility** stage.
+At a minimum it should cover the high-level concepts in sufficient detail to enable discussion of the appropriate technical and management strategies with entire RSE team at the [Feasibility](https://github.com/kingsdigitallab/sdlc-for-rse/blob/master/Document_guidance/B1_Feasibility_guidance.md) stage.
 
 Although each section of the ToR is discrete there will inevitably be overlapping details and priorities between the sections.
 
@@ -49,6 +49,6 @@ The matrix below offers some prompts and key questions for completing this secti
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy03NzE2Nj
-U4NjgsLTEwMDcxMDY4NDVdfQ==
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzkxNzkwMT
+I4NSwtMTAwNzEwNjg0NV19
 -->
