@@ -81,10 +81,13 @@ The matrix below offers some prompts and key questions for effectively completin
 |Does the project require bespoke data structures? If so, which forms are most suitable? e.g relational database, graph database, XML etc.
 |Are there domain specific conventions and standards that must be observed, such as metadata standards formats, ontologies etc?
 |What are the design requirements of the website? e.g. a landmark resource with a strong brand identity, or limited brand identity with a focus on specialist functionality, or a completely standard backend interface which will only ever be used by the project team etc.
-|
+|For a web resource or stand-alone piece of software, what are the key user interactions that should be possible? e.g. textual search, faceted search, free browsing, data entry, moderated contributions from the public, forums, map visualisations, data visualisations, API etc.
+|Will the resource draw upon third-party data or resources?
+|Will there be consultancy products? e.g. reports, scoping documents, design guidelines, etc.
+|**
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzEyMTI0MD
-k5MDgsMTE0NzgyNTA0XX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzczNDczMz
+MyLDExNDc4MjUwNF19
 -->
