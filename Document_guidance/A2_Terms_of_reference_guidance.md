@@ -34,7 +34,7 @@ The matrix below offers some prompts and key questions for completing this secti
 |What sort of archiving should be planned for?
 |**Prompts for further feedback after the meeting:**
 |---|
-|*Ask the team to describe a number of [**user journeys** through the project outputs*
+|*Ask the team to describe a number of [**user journeys**](https://github.com/kingsdigitallab/sdlc-for-rse/blob/master/Glossary_of_terms.md/#user-journeys) through the project outputs*
 |*Encourage them to provide a 1 or 2 sentence elevator pitch to focus their vision*
 
 ### 2.2 BACKGROUND CONTEXT section
@@ -101,6 +101,6 @@ The matrix below offers some prompts and key questions for effectively completin
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xOTI1Nz
-IwMTc5LDExNDc4MjUwNF19
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0zNTg5Nj
+A3NTQsMTE0NzgyNTA0XX0=
 -->
