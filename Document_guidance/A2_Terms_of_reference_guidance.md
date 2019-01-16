@@ -87,10 +87,14 @@ The matrix below offers some prompts and key questions for effectively completin
 |Will there be consultancy products? e.g. reports, scoping documents, design guidelines, etc.
 |**When this list of requirements is completed, attempt to prioritise the items using the _MoSCoW_ classification described above** 
 
-##
+### 2.4 RISKS AND ISSUES section
+
+This section attempts to direct early planning decisions toward possible difficulties and complications with the research project. Anything which represents reputational risk, or complicates achievina successful outcome should be considered here.
+
+The matrix below offers some prompts and key questions for effectively completing this section. It is not exhaustive, but aims to stimulate internal conversation in a productive way.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xNDYyMD
-g5MzI2LDExNDc4MjUwNF19
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy02MzcxOD
+k2NTksMTE0NzgyNTA0XX0=
 -->
