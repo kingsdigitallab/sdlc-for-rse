@@ -5,7 +5,7 @@
 A regular ***internal*** team meeting for the RSE team to discuss new project ideas and current project progress, in order to judge whether a new project is a good fit for the team. This will usually consider the skills available within the team, the research interests of the team, the strategic aims of the parent institution, and the allocation of available resources. Informally, the team's experiences with particular partners might influence borderline decisions.
 
 ### User journeys
-A term used to de
+A term used to describe the different modes of interaction that a variety of audiences will want to have with a digital resource. It is a helpful concept particularly for non-technical partners as it encourages plain English 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI2MzU4MzYsLTc0Mjg2MDQxN119
+eyJoaXN0b3J5IjpbMTMwMjQ0MDA3NSwtNzQyODYwNDE3XX0=
 -->
