@@ -14,12 +14,17 @@ Although each section of the ToR is discrete there will inevitably be overlappin
 
 This section of the ToR is for recording an outline of the high-level concept(s) of the research and outputs being proposed. It presents an opportunity to gain an understanding of the goals of the research and the motivations of the team involved and value judgements should be avoided at this stage.
 
-The matrix below offers some prompts and key questions for completing this section effectively. It is not intended to be exhaustive but instead aims t
+The matrix below offers some prompts and key questions for completing this section effectively. It is not intended to be exhaustive but instead aims to stimulate conversation during the initial meetings.
+
+|  **Example questions and prompts**| **Check** |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xMDg3Mz
-g1MzIyLDE3NjMzMTQ5NTcsMTIzODIzNjY1NiwtMTE3ODgyMDcw
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xNDI2OT
+QxMTkzLDE3NjMzMTQ5NTcsMTIzODIzNjY1NiwtMTE3ODgyMDcw
 MiwtMTIzNjcxMDA2NCwtMTc3MjkxOTYxNCw2Nzc2MDQ5MDhdfQ
 ==
 -->
