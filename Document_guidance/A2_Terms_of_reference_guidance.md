@@ -60,7 +60,17 @@ The matrix below offers a selection of helpful prompts which can guide the RSE t
 
 ### 2.3 REQUIREMENTS section
 
-This section is used to summarise the main deliverables of the project. Although prioritisation might not be practical or desirable at this stage, it is worth attempting to identify those outputs that, if not delivered, would compromise the rationale of the project. All requirements should be considered from infrastructure upwards.
+This section is used to summarise the main deliverables of the project. Although prioritisation might not be practical or desirable at this stage, it is worth attempting to identify those outputs that, if not delivered, would compromise the rationale of embarking the project. *All* requirements should be considered from infrastructure upwards.
+
+**_Must Have_** _requirements  (M) are those that would compromise the rationale of the project if not delivered. Test whether the core goals of the research can still be met, even at considerable inconvenience, if this requirement were not fulfilled._
+
+_**Should Have** requirements (S) are those that would significantly improve workflow and reduce inconvenience for users attempting to achieve a core goal of the research. Additionally, these requirements, if not directly applicable to a particular **M** requirement, may be of secondary importance to the core research goals._
+
+_**Could Have** requirements (C) are those that provide marginal improvements in workflow and may be aesthetic or of tertiary importance to the core research goals._
+
+_**Would Have** requirements (W) are those that are likely to be aspirational in nature but present significant technical and practical obstacles given the timeframe and funding proposed. They may present very marginal benefits to the overall project goal, or may be more suited to follow on research pending the successful completion of the initial project._
+
+The matrix below offers some prompts and key questions for effectively completing this section. It is not exhaustive, but aims to stimulate internal conversation in a productive way.
 
 
 
@@ -69,6 +79,6 @@ This section is used to summarise the main deliverables of the project. Although
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzE0NzU5NT
-czMzcsMTE0NzgyNTA0XX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzI2MjQ4NT
+Q2MCwxMTQ3ODI1MDRdfQ==
 -->
