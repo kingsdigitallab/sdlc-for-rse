@@ -8,11 +8,9 @@ At a minimum it should cover the high-level concept in sufficient detail to disc
 
 Although each section is discrete, there will inevitably be overlapping details and priorities between the sections.
 
-
-
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xMjM2Nz
-EwMDY0XX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xMjA1NT
+c2MDc2XX0=
 -->
