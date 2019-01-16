@@ -38,7 +38,7 @@ The matrix below offers some prompts and key questions for completing this secti
 
 ### 2.2 BACKGROUND CONTEXT section
 
- This section provides a space to record information that can feed into decision making during the Project Planning stage
+ This section provides a space to record information that can feed into decision making during the [Project Planning](https://github.com/kingsdigitallab/sdlc-for-rse/blob/master/Glossary_of_terms.md) stage
 
 
 
@@ -47,8 +47,8 @@ The matrix below offers some prompts and key questions for completing this secti
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wzg1MTM5Mz
-kyMSwtMTc5NTA4MjgwMSwtNzQ1Mjk2NjQ4LDE3NjMzMTQ5NTcs
-MTIzODIzNjY1NiwtMTE3ODgyMDcwMiwtMTIzNjcxMDA2NCwtMT
-c3MjkxOTYxNCw2Nzc2MDQ5MDhdfQ==
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzI5NDQyNT
+YxOCw4NTEzOTM5MjEsLTE3OTUwODI4MDEsLTc0NTI5NjY0OCwx
+NzYzMzE0OTU3LDEyMzgyMzY2NTYsLTExNzg4MjA3MDIsLTEyMz
+Y3MTAwNjQsLTE3NzI5MTk2MTQsNjc3NjA0OTA4XX0=
 -->
