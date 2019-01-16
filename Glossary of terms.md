@@ -1,7 +1,8 @@
 
+# Glossary of terms
 
-
-**Project Planning**
+### Project Planning
+A regular ***internal*** team meeting for 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDY3NTc1OF19
+eyJoaXN0b3J5IjpbNjkzODM1NTE1XX0=
 -->
