@@ -25,6 +25,11 @@ The matrix below offers some prompts and key questions for completing this secti
 |What skills are needed within the project team?
 |What concrete outputs are anticipated to come from the research?
 |How is the project team structured in terms of institutions, responsibilities and leadership?
+|What other organisations are involved?
+|What level of funding is secured?
+|Who are the intended audiences for the project?
+|How will the intended audiences interact with the research outputs?
+|What is 
 
 
 
@@ -34,8 +39,8 @@ The matrix below offers some prompts and key questions for completing this secti
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xMzkxMT
-M4NDIsLTE3OTUwODI4MDEsLTc0NTI5NjY0OCwxNzYzMzE0OTU3
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0zMDIwMj
+A1NTgsLTE3OTUwODI4MDEsLTc0NTI5NjY0OCwxNzYzMzE0OTU3
 LDEyMzgyMzY2NTYsLTExNzg4MjA3MDIsLTEyMzY3MTAwNjQsLT
 E3NzI5MTk2MTQsNjc3NjA0OTA4XX0=
 -->
