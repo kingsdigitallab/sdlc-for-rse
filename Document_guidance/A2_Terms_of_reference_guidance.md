@@ -84,10 +84,10 @@ The matrix below offers some prompts and key questions for effectively completin
 |For a web resource or stand-alone piece of software, what are the key user interactions that should be possible? e.g. textual search, faceted search, free browsing, data entry, moderated contributions from the public, forums, map visualisations, data visualisations, API etc.
 |Will the resource draw upon third-party data or resources?
 |Will there be consultancy products? e.g. reports, scoping documents, design guidelines, etc.
-|**
+|**When this list of requirements is completed, attempt to prioritise the ** 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzczNDczMz
-MyLDExNDc4MjUwNF19
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0yNDE4Mj
+MzNSwxMTQ3ODI1MDRdfQ==
 -->
