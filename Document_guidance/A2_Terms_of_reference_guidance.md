@@ -62,6 +62,7 @@ The matrix below offers a selection of helpful prompts which can guide the RSE t
 
 This section is used to summarise the main deliverables of the project. Although prioritisation might not be practical or desirable at this stage, it is worth attempting to identify those outputs that, if not delivered, would compromise the rationale of embarking the project. *All* requirements should be considered from infrastructure upwards.
 
+#### 2.3.1 MoSCoW prioritisation
 _**Must Have** requirements are those that would compromise the rationale of the project if not delivered. Test whether the core goals of the research can still be met, even at considerable inconvenience, if this requirement were not fulfilled._
 
 _**Should Have** requirements are those that would significantly improve workflow and reduce inconvenience for users attempting to achieve a core goal of the research. These requirements, if not directly applicable to a particular **Must Have** requirement, may be of secondary importance to the core research goals._
@@ -84,10 +85,12 @@ The matrix below offers some prompts and key questions for effectively completin
 |For a web resource or stand-alone piece of software, what are the key user interactions that should be possible? e.g. textual search, faceted search, free browsing, data entry, moderated contributions from the public, forums, map visualisations, data visualisations, API etc.
 |Will the resource draw upon third-party data or resources?
 |Will there be consultancy products? e.g. reports, scoping documents, design guidelines, etc.
-|**When this list of requirements is completed, attempt to prioritise the ** 
+|**When this list of requirements is completed, attempt to prioritise the items using the _MoSCoW_ classification described above** 
+
+##
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0yNDE4Mj
-MzNSwxMTQ3ODI1MDRdfQ==
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xNDYyMD
+g5MzI2LDExNDc4MjUwNF19
 -->
