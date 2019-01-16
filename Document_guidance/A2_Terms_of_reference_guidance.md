@@ -48,7 +48,20 @@ The matrix below offers a selection of helpful prompts which can guide the RSE t
 |Will the project team fully engage with the SDLC processes?
 |What previous work (if any) is being built upon?
 |Has previous work in this area failed to produce quality research? If so, why?
-|
+|Is there an existing resource upon which this new work depends?
+|What distinguishes this research as particularly ambitious or innovative?
+|Does the project align with current internal goals and strategies?
+|Does the project align with internal research interests?
+|Does the RSE team have access to the necessary expertise to fulfil the project requirements?
+|How amenable to digitisation are the data sources being proposed?
+|How amenable to archiving is the project being proposed?
+|Are the ambitions of the team realistic?
+|Does the project present ethical concerns?
+
+### 2.3 REQUIREMENTS section
+
+This section is used to summarise the main deliverables of the project. Although prioritisation might not be practical or desirable at this stage, it is worth attempting to identify those outputs that, if not delivered, would compromise the rationale of the project. All requirements should be considered from infrastructure upwards.
+
 
 
 
@@ -56,6 +69,6 @@ The matrix below offers a selection of helpful prompts which can guide the RSE t
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzE3OTQ4Nz
-YyNzcsMTE0NzgyNTA0XX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzE0NzU5NT
+czMzcsMTE0NzgyNTA0XX0=
 -->
