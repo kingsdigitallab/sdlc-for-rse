@@ -8,30 +8,11 @@ At a minimum it should cover the high-level concept in sufficient detail to disc
 
 Although each section is discrete, there will inevitably be overlapping details and priorities between the sections.
 
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzEyMzgyMz
-Y2NTYsLTExNzg4MjA3MDIsLTEyMzY3MTAwNjQsLTE3NzI5MTk2
-MTQsNjc3NjA0OTA4XX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzE3NjMzMT
+Q5NTcsMTIzODIzNjY1NiwtMTE3ODgyMDcwMiwtMTIzNjcxMDA2
+NCwtMTc3MjkxOTYxNCw2Nzc2MDQ5MDhdfQ==
 -->
