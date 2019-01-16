@@ -12,10 +12,11 @@ Although each section of the ToR is discrete there will inevitably be overlappin
 
 ### 2.1 Overview section
 
+This section of the ToR is for recording an outline of the high-level concept(s) of the research being proposed. It presents an opportunity to gain an understanding of the goals of the research and the motivations of the team involved. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0zMzQ3Mz
-EyMzAsMTc2MzMxNDk1NywxMjM4MjM2NjU2LC0xMTc4ODIwNzAy
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy03MDAwNT
+YyMzAsMTc2MzMxNDk1NywxMjM4MjM2NjU2LC0xMTc4ODIwNzAy
 LC0xMjM2NzEwMDY0LC0xNzcyOTE5NjE0LDY3NzYwNDkwOF19
 -->
