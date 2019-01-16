@@ -1,4 +1,4 @@
-# Terms of Reference Guidance
+# Terms of Reference Guidelines
 ## 1. Purpose of the document
 The Terms of Reference (ToR) document is created based on initial contact with the project partner or partners. It can be produced by any member of the Research Software Engineering (RSE) team, though it will usually be created by the team member occupying the Research Software Analyst role. It is not intended to be a customer facing document but rather a record for the RSE team of the main requirements and will be used for referral during the early stages of the project.
 
@@ -12,6 +12,6 @@ Although each section is discrete, there will inevitably be overlapping details 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xMTc4OD
-IwNzAyXX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzE3NjMzMT
+Q5NTcsLTExNzg4MjA3MDJdfQ==
 -->
