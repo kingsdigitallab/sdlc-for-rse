@@ -89,12 +89,17 @@ The matrix below offers some prompts and key questions for effectively completin
 
 ### 2.4 RISKS AND ISSUES section
 
-This section attempts to direct early planning decisions toward possible difficulties and complications with the research project. Anything which represents reputational risk, or complicates achievina successful outcome should be considered here.
+This section attempts to direct early planning decisions toward possible difficulties and complications with the research project. Anything which represents reputational risk, or complicates achieving a successful outcome should be considered here.
 
 The matrix below offers some prompts and key questions for effectively completing this section. It is not exhaustive, but aims to stimulate internal conversation in a productive way.
+
+| Example questions and prompts |Check|
+|---|---|
+|Can the RSE team expect reasonable and equal collaboration with the project team and its members? What can be implemented to mitigate any identified risks?
+|
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy02MzcxOD
-k2NTksMTE0NzgyNTA0XX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzY3MzE2Mj
+gzMiwxMTQ3ODI1MDRdfQ==
 -->
