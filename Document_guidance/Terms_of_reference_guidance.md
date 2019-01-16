@@ -10,7 +10,7 @@ Although each section of the ToR is discrete there will inevitably be overlappin
 
 ## 2. Completing the ToR
 
-### 2.1 Overview section
+### 2.1 OVERVIEW section
 
 This section of the ToR is for recording an outline of the high-level concept(s) of the research and outputs being proposed. It presents an opportunity to gain an understanding of the goals of the research and the motivations of the team involved and value judgements should be avoided at this stage.
 
@@ -32,12 +32,13 @@ The matrix below offers some prompts and key questions for completing this secti
 |What is the time span for the project? Submission deadlines? Commencement?
 |What expectations are there for the project beyond the funded period?
 |What sort of archiving should be planned for?
-|**Feedback after the meeting**
+|**Feedback after the meeting:**
 |*Ask the team to describe a number of **user journeys** through the project outputs*
 |*Encourage them to provide a 1 or 2 sentence elevator pitch to focus their vision*
 
-** 
+### 2.2 BACKGROUND CONTEXT section
 
+ 
 
 
 
@@ -46,8 +47,8 @@ The matrix below offers some prompts and key questions for completing this secti
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzE5NDg0MT
-YxODYsLTE3OTUwODI4MDEsLTc0NTI5NjY0OCwxNzYzMzE0OTU3
-LDEyMzgyMzY2NTYsLTExNzg4MjA3MDIsLTEyMzY3MTAwNjQsLT
-E3NzI5MTk2MTQsNjc3NjA0OTA4XX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xNzMwMT
+k1OTY3LC0xNzk1MDgyODAxLC03NDUyOTY2NDgsMTc2MzMxNDk1
+NywxMjM4MjM2NjU2LC0xMTc4ODIwNzAyLC0xMjM2NzEwMDY0LC
+0xNzcyOTE5NjE0LDY3NzYwNDkwOF19
 -->
