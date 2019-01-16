@@ -38,7 +38,7 @@ The matrix below offers some prompts and key questions for completing this secti
 
 ### 2.2 BACKGROUND CONTEXT section
 
- 
+ This section provides a space to record information that can feed into decision making during the Project Planning stage
 
 
 
@@ -47,8 +47,8 @@ The matrix below offers some prompts and key questions for completing this secti
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xNzMwMT
-k1OTY3LC0xNzk1MDgyODAxLC03NDUyOTY2NDgsMTc2MzMxNDk1
-NywxMjM4MjM2NjU2LC0xMTc4ODIwNzAyLC0xMjM2NzEwMDY0LC
-0xNzcyOTE5NjE0LDY3NzYwNDkwOF19
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wzg1MTM5Mz
+kyMSwtMTc5NTA4MjgwMSwtNzQ1Mjk2NjQ4LDE3NjMzMTQ5NTcs
+MTIzODIzNjY1NiwtMTE3ODgyMDcwMiwtMTIzNjcxMDA2NCwtMT
+c3MjkxOTYxNCw2Nzc2MDQ5MDhdfQ==
 -->
