@@ -16,8 +16,8 @@ This section of the ToR is for recording an outline of the high-level concept(s)
 
 The matrix below offers some prompts and key questions for completing this section effectively. It is not intended to be exhaustive but instead aims to stimulate conversation during the initial meetings.
 
-|**Example questions and prompts**| **Check**  ||
-|--|--|--|
+|Example questions and prompts| Check  ||
+|:--|--|--|
 |What knowledge domains are being explored?
 |What disciplines does the research draw on?
 |What data sources are being considered for use?
@@ -73,8 +73,8 @@ _**Won't Have** requirements are those that are aspirational in nature but prese
 
 The matrix below offers some prompts and key questions for effectively completing this section. It is not exhaustive, but aims to stimulate internal conversation in a productive way.
 
-|**Example questions and prompts**| **Check**  ||
-|--|--|--|
+|Example questions and prompts| Check  ||
+|:--|--|--|
 |Will the project require dedicated infrastructure?
 |What key services will any dedicated infrastructure need to provide? e.g. Image server, Web server, High Powered Computer etc.
 |How much storage is likely to be required for any source materials?
@@ -93,13 +93,13 @@ This section attempts to direct early planning decisions toward possible difficu
 
 The matrix below offers some prompts and key questions for effectively completing this section. It is not exhaustive, but aims to stimulate internal conversation in a productive way.
 
-| Example questions and prompts |Check|
-|---|---|
+| Example questions and prompts |Check||
+|:---|---|---|
 |Can the RSE team expect reasonable and equal collaboration with the project team and its members? What can be implemented to mitigate any identified risks?
 |
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzY3MzE2Mj
-gzMiwxMTQ3ODI1MDRdfQ==
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xODI1Mj
+I5NjExLDExNDc4MjUwNF19
 -->
