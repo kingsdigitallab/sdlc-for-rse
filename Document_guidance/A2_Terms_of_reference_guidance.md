@@ -45,7 +45,10 @@ The matrix below offers a selection of helpful prompts which can guide the RSE t
 |**Example questions and prompts**| **Check**  ||
 |--|--|--|
 |Have the RSE team had previous experience of working with this project team or members of the team?
-
+|Will the project team fully engage with the SDLC processes?
+|What previous work (if any) is being built upon?
+|Has previous work in this area failed to produce quality research? If so, why?
+|
 
 
 
@@ -53,6 +56,6 @@ The matrix below offers a selection of helpful prompts which can guide the RSE t
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xOTg4Nz
-kyMTYzLDExNDc4MjUwNF19
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzE3OTQ4Nz
+YyNzcsMTE0NzgyNTA0XX0=
 -->
