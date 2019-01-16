@@ -79,13 +79,12 @@ The matrix below offers some prompts and key questions for effectively completin
 |How much storage is likely to be required for any source materials?
 |Does the project require a website? If so, what is its primary purpose? e.g. Dissemination, Research platform etc.
 |Does the project require bespoke data structures? If so, which forms are most suitable? e.g relational database, graph database, XML etc.
-|Are there domain specific conventions and standards that must be observed, such as data formats, ontologies etc?
-
-
-
+|Are there domain specific conventions and standards that must be observed, such as metadata standards formats, ontologies etc?
+|What are the design requirements of the website? e.g. a landmark resource with a strong brand identity, or limited brand identity with a focus on specialist functionality, or a completely standard backend interface which will only ever be used by the project team etc.
+|
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzE4MzIyMj
-QyOSwxMTQ3ODI1MDRdfQ==
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzEyMTI0MD
+k5MDgsMTE0NzgyNTA0XX0=
 -->
