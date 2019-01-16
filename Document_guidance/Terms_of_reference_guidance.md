@@ -16,19 +16,27 @@ This section of the ToR is for recording an outline of the high-level concept(s)
 
 The matrix below offers some prompts and key questions for completing this section effectively. It is not intended to be exhaustive but instead aims to stimulate conversation during the initial meetings.
 
-|  **Example questions and prompts**| **Check** |
+|**Example questions and prompts**| **Check**  |
+|--|--|
+|  What knowledge domains are being explored?|  |
+
+
+
 |--|--|
 
-|  dsds| dsds |
-|-ssds-|-sdsd-|
-|  sdsd| sdsd |
+| test  | check |   |   |   |
+|-|--|---|---|---|
+| dsdas | Y     |   |   |   |
+|       |       |   |   |   |
+|       |       |   |   |   |
 
 
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy03NDUyOT
-Y2NDgsMTc2MzMxNDk1NywxMjM4MjM2NjU2LC0xMTc4ODIwNzAy
-LC0xMjM2NzEwMDY0LC0xNzcyOTE5NjE0LDY3NzYwNDkwOF19
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzEzNzk1MT
+k5MzMsLTc0NTI5NjY0OCwxNzYzMzE0OTU3LDEyMzgyMzY2NTYs
+LTExNzg4MjA3MDIsLTEyMzY3MTAwNjQsLTE3NzI5MTk2MTQsNj
+c3NjA0OTA4XX0=
 -->
