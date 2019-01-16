@@ -40,10 +40,12 @@ The matrix below offers some prompts and key questions for completing this secti
 
 This section provides a space to record information that can feed into decision making during the **Project Planning** stage.
 
-Th
+The matrix below offers a selection of helpful prompts which can guide the RSE team when making a decision about whether to proceed to the **Feasibility** stage.
+
 |**Example questions and prompts**| **Check**  ||
 |--|--|--|
-|What knowledge domains are being explored?
+|Have the RSE team had previous experience of working with this project team or members of the team?
+
 
 
 
@@ -51,6 +53,6 @@ Th
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xNjc1NT
-QyNzI3LDExNDc4MjUwNF19
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xOTg4Nz
+kyMTYzLDExNDc4MjUwNF19
 -->
