@@ -43,8 +43,13 @@ Links within these documents may direct the user to:
 The SDLC can represented in a flow diagram
 
 
-
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzYxMTk1MSwtMTA2MTc3OTQzOSwtMT
-MxODAwNzg1OSwtMjAzOTk4MDg1M119
+eyJoaXN0b3J5IjpbNTA1MTk2MDI1LC0xMDYxNzc5NDM5LC0xMz
+E4MDA3ODU5LC0yMDM5OTgwODUzXX0=
 -->
