@@ -42,14 +42,7 @@ Links within these documents may direct the user to:
 ### 2. SDLC Stages and Processes
 The SDLC can represented in a flow diagram
 
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1MTk2MDI1LC0xMDYxNzc5NDM5LC0xMz
-E4MDA3ODU5LC0yMDM5OTgwODUzXX0=
+eyJoaXN0b3J5IjpbLTc1MDUzOTY5Myw1MDUxOTYwMjUsLTEwNj
+E3Nzk0MzksLTEzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
 -->
