@@ -42,8 +42,9 @@ Links within these documents may direct the user to:
 The SDLC can represented in a flow diagram thus:
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzU5MTUyNywtNjI3NTA0MDcxLC03NT
+eyJoaXN0b3J5IjpbLTU3OTMyNDMzMSwtNjI3NTA0MDcxLC03NT
 A1Mzk2OTMsNTA1MTk2MDI1LC0xMDYxNzc5NDM5LC0xMzE4MDA3
 ODU5LC0yMDM5OTgwODUzXX0=
 -->
