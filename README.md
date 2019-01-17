@@ -31,7 +31,16 @@ It is recommended that these completed templates be stored as project governance
 Each document template has a guidance document which explains the purpose of the document and offers useful direction for ensuring that the right information is gathered at the right time.
 
 Each guidance document may contain one or more matrices of prompts and questions to help ensure productive meetings and minimise misunderstandings in the later stages of development. These prompts are not intended to be exhaustive and each research project will have complex and individual aspects, but it is hoped that these suggestions will stimulate productive communication.
+
+Links within these documents may direct the user to:
+
+ - RSE team role descriptions
+ - 
+
+### SDLC Stages and Processes
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU0Mzg1OTEsLTEwNjE3Nzk0MzksLT
-EzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NTM1MTUwNywtMTA2MTc3OTQzOSwtMT
+MxODAwNzg1OSwtMjAzOTk4MDg1M119
 -->
