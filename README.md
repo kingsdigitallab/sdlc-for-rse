@@ -25,9 +25,11 @@ All branding and commercially sensitive information has been removed from the or
  - transparency of the development process
  - direct reuse of text in funding applications
 
-It is recommended that these completed templates be stored as project governance records in secure storage with access shared by the RSE team. Some of these 
+It is recommended that these completed templates be stored as project governance records in secure storage with access shared by the RSE team. Some of these documents are intended for internal audiences only, and these will be identified clearly with the header **"For internal use only"**
+
+#### Document gui
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg4NjMyNDgsLTEwNjE3Nzk0MzksLT
-EzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NjMzNDI0NSwtMTA2MTc3OTQzOSwtMT
+MxODAwNzg1OSwtMjAzOTk4MDg1M119
 -->
