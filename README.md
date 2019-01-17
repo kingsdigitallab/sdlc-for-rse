@@ -35,12 +35,16 @@ Each guidance document may contain one or more matrices of prompts and questions
 Links within these documents may direct the user to:
 
  - RSE team role descriptions
- - 
+ - SDLC process documentation
+ - terms in a glossary
+ - additional documentation
 
-### SDLC Stages and Processes
+### 2. SDLC Stages and Processes
+The SDLC can represented in a flow diagram
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM1MTUwNywtMTA2MTc3OTQzOSwtMT
+eyJoaXN0b3J5IjpbMTkzMzYxMTk1MSwtMTA2MTc3OTQzOSwtMT
 MxODAwNzg1OSwtMjAzOTk4MDg1M119
 -->
