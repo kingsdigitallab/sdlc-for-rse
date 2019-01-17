@@ -30,8 +30,8 @@ It is recommended that these completed templates be stored as project governance
 #### 1.2 Document guidance
 Each document template has a guidance document which explains the purpose of the document and offers useful direction for ensuring that the right information is gathered at the right time.
 
-Each guidance document may contain one or more matrices of prompts and questions to help ensure productive meetings and minimise misunderstandings in the later stages of development. These 
+Each guidance document may contain one or more matrices of prompts and questions to help ensure productive meetings and minimise misunderstandings in the later stages of development. These prompts are not intended to be exhaustive and each research project will have complex and individual aspects, but it is hoped that these suggestions will stimulate productive communication.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDkxODI0OTksLTEwNjE3Nzk0MzksLT
+eyJoaXN0b3J5IjpbLTEyMTU0Mzg1OTEsLTEwNjE3Nzk0MzksLT
 EzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
 -->
