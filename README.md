@@ -22,9 +22,12 @@ All branding and commercially sensitive information has been removed from the or
  - clarity of the responsibilities of participating parties
  - a logical structure for peer review (internally)
  - the considered use of **boilerplate** text where applicable
- - 
+ - transparency of the development process
+ - direct reuse of text in funding applications
+
+It is recommended that 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU0OTA3OTUsLTEwNjE3Nzk0MzksLT
-EzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
+eyJoaXN0b3J5IjpbMTcwNTMwOTU3NSwtMTA2MTc3OTQzOSwtMT
+MxODAwNzg1OSwtMjAzOTk4MDg1M119
 -->
