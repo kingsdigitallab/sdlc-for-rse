@@ -16,11 +16,13 @@ The core component of this toolkit is the [document templates](/sdlc-for-rse/doc
 Documents are prefixed alphabetically in expected order of use. The alphabetic character is followed by a number which will denotes whether the document is 1, a template or 2, an accompanying guidance document.
 
 #### Document templates
-All branding and commercially sensitive information has been removed from the original KDL templates. The layout and structure of the templates evolved over several iterations and is geared towards
+All branding and commercially sensitive information has been removed from the original KDL templates. The layout of the templates continues to evolve over several iterations and is geared towards achieving:
 
- - clari
+ - clarity of the project aims
+ - 
+ - a structured
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Nzc2NjI0MCwtMTA2MTc3OTQzOSwtMT
-MxODAwNzg1OSwtMjAzOTk4MDg1M119
+eyJoaXN0b3J5IjpbLTE1NzgwOTQyMjEsLTEwNjE3Nzk0MzksLT
+EzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
 -->
