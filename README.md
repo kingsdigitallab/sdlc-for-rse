@@ -11,12 +11,12 @@ The documentation found here represents the KDL's implementation of an Agile sof
 *Document guidance and templates have been written in simple Markdown. They can be copied and pasted into most desktop word processing software or converted via a variety of third party tools into formats that can be easily used offline.*
 
 ### Getting started
-The core component of this toolkit is the document templates that underpin the various stages of the SDLC. 
+The core component of this toolkit is the document templates that underpin the various stages of the SDLC.  In addition to the document templates, there are guidance documents which offer advice on how to populate the documents and 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODExNDA2OV19
+eyJoaXN0b3J5IjpbNDU5ODUwNDg1XX0=
 -->
