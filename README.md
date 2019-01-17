@@ -19,10 +19,12 @@ Documents are prefixed alphabetically in expected order of use. The alphabetic c
 All branding and commercially sensitive information has been removed from the original KDL templates. The layout of the templates continues to evolve over several iterations and is geared towards achieving:
 
  - clarity of the project aims
+ - clarity of the responsibilities of participating parties
+ - a logical structure for peer review (internally)
+ - the considered use of **boilerplate** text where applicable
  - 
- - a structured
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgwOTQyMjEsLTEwNjE3Nzk0MzksLT
+eyJoaXN0b3J5IjpbLTE4NjU0OTA3OTUsLTEwNjE3Nzk0MzksLT
 EzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
 -->
