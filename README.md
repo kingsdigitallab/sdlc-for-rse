@@ -1,16 +1,24 @@
-# sdlc-for-rse
-A repository for documentation and processes for software development in a research setting. 
+## sdlc-for-rse
+# Software Development Lifecycle for Research Software Engineering
 
-This repo was started on Aug 22 2018 and is intended to be an evolving piece of work.
+A toolkit for documentation and processes for software development in a research setting. 
 
-The documentation files included in this repository should be in Open Document Format (ODF) ISO/IEC 26300, to ensure non-reliance on proprietary standards.
+This repository was established by [King's Digital Lab](www.kdl.kcl.ac.uk)  (KDL) on Aug 22 2018 and it is intended to be an evolving piece of work, enriched with community contributions.
 
-The documents designs and format are minimalist to ensure maximum availability across operating systems, using common fonts. The original documentation has been prepared using LibreOffice 6.1.0.3 (https://www.libreoffice.org/)
+The documentation found here represents the KDL's implementation of an Agile software development lifecycle, pragmatically adapted to suit the particular requirements and peculiarities of Research Software Development. 
 
-Additional conventions for adding documents to this repository is as follows:
-1. Headers are presented in Helvetica (18pt, 16pt, 14pt)
-2. Body text is presented in Times (11pt)
-3. Line spacing is 1.5 units
-4. Boiler plate text is in black
-5. Text to be replaced is in red
-6. Terms which relate to specific project stages and roles are emphasised by bold type and are underlined. This also applies to abbreviations.
+## How to use this resource
+*Document guidance and templates have been written in simple Markdown. They can be copied and pasted into most desktop word processing software or converted via a variety of third party tools into formats that can be easily used offline.*
+
+### Getting started
+The core component of this toolkit is the [document templates](/Document_guidance/A2_Terms_of_reference_guidance) that underpin the various stages of the SDLC.  In addition to the document templates, there are guidance documents which offer advice on how to populate the documents and what factors to consider when planning a RSE project.
+
+Documents 
+
+
+
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMzk5ODA4NTNdfQ==
+-->
