@@ -49,7 +49,7 @@ B --> D{Rhombus}
 C --> D
 ```
 
-{% include /sdlc-for-rse/js.md %}
+{% include js/js.md %}
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjM1MDEwNzI4XX0=
 -->
