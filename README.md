@@ -28,8 +28,10 @@ All branding and commercially sensitive information has been removed from the or
 It is recommended that these completed templates be stored as project governance records in secure storage with access shared by the RSE team. Some of these documents are intended for internal audiences only, and these will be identified clearly with the header **"For internal use only"**
 
 #### 1.2 Document guidance
-Each document template has a guidance document which explains the purpose of the document and offers useful direction for ensuring that the right information is 
+Each document template has a guidance document which explains the purpose of the document and offers useful direction for ensuring that the right information is gathered at the right time.
+
+Each guidance document may contain one or more matrices of prompts and questions to help ensure productive meeting
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODI5Njg1MCwtMTA2MTc3OTQzOSwtMT
-MxODAwNzg1OSwtMjAzOTk4MDg1M119
+eyJoaXN0b3J5IjpbNTkwNTc0OTg2LC0xMDYxNzc5NDM5LC0xMz
+E4MDA3ODU5LC0yMDM5OTgwODUzXX0=
 -->
