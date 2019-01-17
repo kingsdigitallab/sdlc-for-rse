@@ -13,13 +13,14 @@ The documentation found here represents the KDL's implementation of an Agile sof
 ### Getting started
 The core component of this toolkit is the [document templates](/sdlc-for-rse/document_guidance_index) that underpin the various stages of the SDLC.  In addition to the document templates, there are guidance documents which offer advice on how to populate the documents and what factors to consider when planning a RSE project.
 
-Documents are prefixed alphabetically in expected order of use. The alphabetic character is followed by a number which will denotes whether the document is 1, a template or 2, an acco
+Documents are prefixed alphabetically in expected order of use. The alphabetic character is followed by a number which will denotes whether the document is 1, a template or 2, an accompanying guidance document.
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc2MTM2NDYsLTEwNjE3Nzk0MzksLT
-EzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
+eyJoaXN0b3J5IjpbMTkwNjk4NzYyLC0xMDYxNzc5NDM5LC0xMz
+E4MDA3ODU5LC0yMDM5OTgwODUzXX0=
 -->
