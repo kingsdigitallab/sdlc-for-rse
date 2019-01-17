@@ -1,5 +1,4 @@
-## sdlc-for-rse
-# Software Development Lifecycle for Research Software Engineering
+# A Software Development Life Cycle for Research Software Engineering
 
 A toolkit for documentation and processes for software development in a research setting. 
 
@@ -44,7 +43,7 @@ The SDLC can represented in a flow diagram thus:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzUwNDA3MSwtNzUwNTM5NjkzLDUwNT
-E5NjAyNSwtMTA2MTc3OTQzOSwtMTMxODAwNzg1OSwtMjAzOTk4
-MDg1M119
+eyJoaXN0b3J5IjpbMjEzMzU5MTUyNywtNjI3NTA0MDcxLC03NT
+A1Mzk2OTMsNTA1MTk2MDI1LC0xMDYxNzc5NDM5LC0xMzE4MDA3
+ODU5LC0yMDM5OTgwODUzXX0=
 -->
