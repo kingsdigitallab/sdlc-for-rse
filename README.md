@@ -40,9 +40,11 @@ Links within these documents may direct the user to:
  - additional documentation
 
 ### 2. SDLC Stages and Processes
-The SDLC can represented in a flow diagram
+The SDLC can represented in a flow diagram thus:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDUzOTY5Myw1MDUxOTYwMjUsLTEwNj
-E3Nzk0MzksLTEzMTgwMDc4NTksLTIwMzk5ODA4NTNdfQ==
+eyJoaXN0b3J5IjpbLTYyNzUwNDA3MSwtNzUwNTM5NjkzLDUwNT
+E5NjAyNSwtMTA2MTc3OTQzOSwtMTMxODAwNzg1OSwtMjAzOTk4
+MDg1M119
 -->
