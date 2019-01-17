@@ -7,7 +7,8 @@ This repo was started on Aug 22 2018 and is intended to be an evolving piece of 
 
 The document designs and formatting are minimal to ensure maximum availability across operating systems, using common fonts. 
 
-## How to use this 
+## How to use this resource
+Document guidance and templates have been written in markdown and can be converted
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjk1NjEzNV19
+eyJoaXN0b3J5IjpbMjc4OTI0ODc1XX0=
 -->
