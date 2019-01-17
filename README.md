@@ -8,7 +8,13 @@ This repo was started on Aug 22 2018 and is intended to be an evolving piece of 
 The document designs and formatting are minimal to ensure maximum availability across operating systems, using common fonts. 
 
 ## How to use this resource
-Document guidance and templates have been written in simple Markdown. They can be copied and pasted into most desktop word processing software or converted via a variet
+*Document guidance and templates have been written in simple Markdown. They can be copied and pasted into most desktop word processing software or converted via a variety of third party tools into formats that can be easily used offline.*
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzQ4MzA1Nl19
+eyJoaXN0b3J5IjpbMTM2Njk4NDczM119
 -->
