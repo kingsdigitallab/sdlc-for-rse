@@ -60,15 +60,18 @@ Dep--Increment review-->Evo
 Dep-->cF("<b>Change freeze</b><br/><small><b>Goals: </b>Ensure that Minimum Viable Product is not compromised by late<br/>changes in scope, design or functionality, by directing remaining<br/>resources effectively</small>")
 
 cF-->Post["<b>Post project</b><br/><small>
-<b>Goals: </b>Ensure appropriate lifespan for project (as agreed during Feasibility.<br/>Define <b>Service Level Agreement </b> with project stakeholders.<br/>
-Follow robust archiving proc</small>"]
+<b>Goals: </b><br/>Ensure appropriate lifespan for project (as agreed during Feasibility.<br/>Define <b>Service Level Agreement </b> with project stakeholders.<br/>
+Follow robust archiving procedures.</small>"]
+
+Post-->decom["<b>Decommissioning</b><br/><small>
+</small>"]
 
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODEzODA5OCwtMjEyODc3Nzc5LC05Nj
-I2MzU2MiwtMTU2MTM3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0
-MTMzLC0xMTcyMDEyNjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMD
-UzXX0=
+eyJoaXN0b3J5IjpbNTMxODE5MTEyLC0yMTI4Nzc3NzksLTk2Mj
+YzNTYyLC0xNTYxMzcyOTk3LDIwNzkwNTg1OTQsLTE5MTk0NjQx
+MzMsLTExNzIwMTI2NDUsLTEyMTcyNTU1OTksLTE2NTQ3NzEwNT
+NdfQ==
 -->
