@@ -1,7 +1,5 @@
  # A Software Development Life Cycle for Research Software Engineering
 
-{% include js/js.md %}
-
 A toolkit for documentation and processes for software development in a research setting. 
 
 This repository was established by [King's Digital Lab](www.kdl.kcl.ac.uk)  (KDL) on Aug 22 2018 and it is intended to be an evolving piece of work, enriched with community contributions.
@@ -51,6 +49,3 @@ B --> D{Rhombus}
 C --> D
 ```
 {% include js/js.md %}
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MDEwNzI4XX0=
--->
