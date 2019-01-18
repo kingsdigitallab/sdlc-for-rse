@@ -53,16 +53,17 @@ Feas-->Kick
 Kick-->Evo("<b>Evolutionary development</b><br/><small><b>Products: </b></small>")
 Evo--"Timebox review(s)"-->Dep(Deployment)
 Dep--Increment review-->Evo
-Dep-->Post[Post project]
 
-Dep-->chngFreez
+Dep-->cF(Change freeze)
+
+cF-->Post[Post project]
 
 
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTQ3MDgzOCwtOTYyNjM1NjIsLTE1Nj
-EzNzI5OTcsMjA3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAx
-MjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MTA1M119
+eyJoaXN0b3J5IjpbLTE5NjkwMTY1NDEsLTk2MjYzNTYyLC0xNT
+YxMzcyOTk3LDIwNzkwNTg1OTQsLTE5MTk0NjQxMzMsLTExNzIw
+MTI2NDUsLTEyMTcyNTU1OTksLTE2NTQ3NzEwNTNdfQ==
 -->
