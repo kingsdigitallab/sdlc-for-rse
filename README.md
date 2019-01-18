@@ -44,8 +44,18 @@ The SDLC can represented in a flow diagram thus:
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
-B --> D{Rhombus}
+B - -> D{Rhombus}
 C --> D
 </div>
 
+```mermaid 
+graph LR
+Pre[Pre-pr] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B - -> D{Rhombus}
+C --> D
+
 {% include js/js.md %}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NzAzMzk1NjBdfQ==
+-->
