@@ -44,12 +44,12 @@ The SDLC can very briefly represented in a flow diagram, but separate details wi
 graph TB
 Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal record document)<br/><b>Goals: </b>Understand business case, high-level requirements,<br/>funding landscape etc.<br/><b>Roles: </b>Analyst, Project Manager, Director</small>"] --Go?--> 
 
-Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal record for peer review),<br/>High Level Cost --> Product Quote (if feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.<br/><b>Roles: </b>Analyst, Project Manager, Developer, UI/UX, Systems Manager</small>")
+Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal record for peer review),<br/>High Level Costings --> Product Quote (<i>if</i> feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.<br/><b>Roles: </b>Analyst, Project Manager, Developer, UI/UX, Systems Manager</small>")
 Pre--No go?-->endPre[Do not proceed]
 
-Feas--Feasible?-->Found("<b>Foundations</b><br/><small><b>Products: </b></small>")
+Feas--Feasible?-->Kick("<b>Kick-off</b><br/><small><b>Products: </b></small>")
 Feas--Not feasible?-->endPre
-Found-->Evo(Evolutionary development)
+Kick-->Evo(Evolutionary development)
 Evo-->Dep(Deployment)
 Dep--Review-->Evo
 Dep-->Post[Post project]
@@ -59,7 +59,7 @@ Dep-->Post[Post project]
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MzAxNDY2LC05NjI2MzU2MiwtMTU2MT
-M3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0MTMzLC0xMTcyMDEy
-NjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMDUzXX0=
+eyJoaXN0b3J5IjpbLTI4MDE3MDczMiwtOTYyNjM1NjIsLTE1Nj
+EzNzI5OTcsMjA3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAx
+MjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MTA1M119
 -->
