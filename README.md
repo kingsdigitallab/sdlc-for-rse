@@ -51,11 +51,11 @@ C --> D
 ```mermaid 
 graph TB
 Pre[Pre-project stage ] --GO --> 
-Feas(Feasibility)
-Pre
+Feas(Feasibility)--Feasible
+Pre--NO GO-->endPre((Do not proceed))
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk2MjA0MzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MTI1NjM5NjJdfQ==
 -->
