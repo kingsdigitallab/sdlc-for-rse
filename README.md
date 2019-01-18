@@ -47,10 +47,10 @@ Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (I
 Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal record for peer review),<br/>High Level Costings --> Product Quote (<i>if</i> feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.<br/><b>Roles: </b>Analyst, Project Manager, Developer, UI/UX, Systems Manager</small>")
 Pre--No go?-->endPre[Do not proceed]
 
-Feas--Feasible?-->Kick("<b>Kick-off</b>)
+Feas--Feasible?-->Kick("<b>Kick-off</b>")
 Feas--Not feasible?-->endPre
-Kick-->()
-Evo("<b>Evolutionary development</b><br/><small><b>Products: </b></small>")
+Feas-->(Kick)
+Kick-->Evo("<b>Evolutionary development</b><br/><small><b>Products: </b></small>")
 Evo-->Dep(Deployment)
 Dep--Review-->Evo
 Dep-->Post[Post project]
@@ -60,7 +60,7 @@ Dep-->Post[Post project]
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMzQ3MjM2LC05NjI2MzU2MiwtMTU2MT
+eyJoaXN0b3J5IjpbMTA5MzQ5OTMzLC05NjI2MzU2MiwtMTU2MT
 M3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0MTMzLC0xMTcyMDEy
 NjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMDUzXX0=
 -->
