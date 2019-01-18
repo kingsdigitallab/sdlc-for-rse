@@ -50,7 +50,7 @@ Pre--No go?-->endPre[Do not proceed]
 Feas--Feasible?-->Kick("<b>Kick-off</b>")
 Feas--Not feasible?-->endPre
 Feas-->Kick
-Kick-->Evo("<b>Evolutionary development</b><br/><small><b>Products: </b></small>")
+Kick-->Evo("<b>Evolutionary development</b><br/><small><b>Products: </b>T</small>")
 Evo--"Timebox review(s)"-->Dep(Deployment)
 Dep--Increment review-->Evo
 
@@ -62,7 +62,7 @@ cF-->Post[Post project]
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDI1MjIxMywtOTYyNjM1NjIsLTE1Nj
+eyJoaXN0b3J5IjpbMTcxMTQ5NzgwMywtOTYyNjM1NjIsLTE1Nj
 EzNzI5OTcsMjA3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAx
 MjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MTA1M119
 -->
