@@ -43,9 +43,8 @@ The SDLC can very briefly represented in a flow diagram, but separate details wi
 <div class="mermaid">
 
 graph TB
-Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal record document)<br/><b>Goals: </b>Understand business case, high-level requirements,<br/>funding landscape etc.<br/><!--<b>Roles: </b>Analyst, Project Manager, Director''></small>"] --Go?--> 
-
-Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal record for peer review),<br/>High Level Costings --> Product Quote (<i>if</i> feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.<br/><!--<b>Roles: </b>Analyst, Project Manager, Developer, UI/UX, Systems Manager--></small>")
+Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal record document)<br/><b>Goals: </b>Understand business case, high-level requirements,<br/>funding landscape etc.</small>"] --Go?--> 
+Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal record for peer review),<br/>High Level Costings --> Product Quote (<i>if</i> feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.</small>")
 Pre--No go?-->endPre[Do not proceed]
 
 Feas--Feasible?-->Kick("<b>Kick-off</b>")
@@ -77,8 +76,9 @@ Maint-->Evo
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTgwNjc5NiwxMTQxOTYwMTUzLDEwNT
-kxMjg0MDgsLTIxMjg3Nzc3OSwtOTYyNjM1NjIsLTE1NjEzNzI5
-OTcsMjA3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAxMjY0NS
-wtMTIxNzI1NTU5OSwtMTY1NDc3MTA1M119
+eyJoaXN0b3J5IjpbLTM1MTYwMjgyNSwtMzY5ODA2Nzk2LDExND
+E5NjAxNTMsMTA1OTEyODQwOCwtMjEyODc3Nzc5LC05NjI2MzU2
+MiwtMTU2MTM3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0MTMzLC
+0xMTcyMDEyNjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMDUzXX0=
+
 -->
