@@ -50,8 +50,8 @@ Pre--No go?-->endPre[Do not proceed]
 Feas--Feasible?-->Kick("<b>Kick-off</b>")
 Feas--Not feasible?-->endPre
 Feas-->Kick
-Kick-->Evo("<b>Evolutionary development</b><br/><small><b>Products: </b>Timebox plans, Timebox reviews, Prioritised Requirments list<br/>
-<b>Goals: </b>Define goals for each development timebox </small>")
+Kick-->Evo("<b>Evolutionary development</b><br/><small><b>Products: </b>Timebox plans, Timebox reviews<br/>
+<b>Goals: </b>Define goals for each development timebox and work toward an<br/>iteration for eventual deployment. Review progress from previous</br>timebox and review prioritised requirements.</small>")
 Evo--"Timebox review(s)"-->Dep(Deployment)
 Dep--Increment review-->Evo
 
@@ -63,7 +63,7 @@ cF-->Post[Post project]
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MjQzNjg3LC05NjI2MzU2MiwtMTU2MT
-M3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0MTMzLC0xMTcyMDEy
-NjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMDUzXX0=
+eyJoaXN0b3J5IjpbLTIwMjg2MDI4NCwtOTYyNjM1NjIsLTE1Nj
+EzNzI5OTcsMjA3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAx
+MjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MTA1M119
 -->
