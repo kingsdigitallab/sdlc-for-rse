@@ -1,9 +1,8 @@
 <div class="mermaid">
 
 graph TB
-Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal record document)<br/><b>Goals: </b>Understand business case, high-level requirements,<br/>funding landscape etc.<br/><!--<b>Roles: </b>Analyst, Project Manager, Director''></small>"] --Go?--> 
-
-Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal record for peer review),<br/>High Level Costings --> Product Quote (<i>if</i> feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.<br/><!--<b>Roles: </b>Analyst, Project Manager, Developer, UI/UX, Systems Manager--></small>")
+Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal record document)<br/><b>Goals: </b>Understand business case, high-level requirements,<br/>funding landscape etc.</small>"] --Go?--> 
+Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal record for peer review),<br/>High Level Costings --> Product Quote (<i>if</i> feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.</small>")
 Pre--No go?-->endPre[Do not proceed]
 
 Feas--Feasible?-->Kick("<b>Kick-off</b>")
@@ -30,6 +29,6 @@ Maint-->Evo
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDYyMTU3OCwtMTk2ODQzMzg2LC0xNj
-kxNDUwNTY4XX0=
+eyJoaXN0b3J5IjpbNzAyMzY3MzMsLTE5Njg0MzM4NiwtMTY5MT
+Q1MDU2OF19
 -->
