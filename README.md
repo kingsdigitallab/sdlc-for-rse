@@ -41,11 +41,25 @@ Links within these documents may direct the user to:
 The SDLC can represented in a flow diagram thus:
 
 <div class="mermaid">
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+graph TB
+Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal document)<br/><b>Goals: </b>Understand business case<br/><b>Roles: </b>Analyst, Project Manager, Director</small>"] --Go?--> 
+
+Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal for peer review),<br/>High Level Cost --> Product Quote (if feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.<br/><b>Roles: </b>Analyst, Project Manager, Developer, UI/UX, Systems Manager</small>")
+Pre--No go?-->endPre[Do not proceed]
+
+Feas--Feasible?-->Found("<b>Foundations</b><br/><small><b>Products: </b></small>")
+Feas--Not feasible?-->endPre
+Found-->Evo(Evolutionary development)
+Evo-->Dep(Deployment)
+Dep--Review-->Evo
+Dep-->Post[Post project]
 </div>
 
+
+
 {% include js/js.md %}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NjEzNzI5OTcsMjA3OTA1ODU5NCwtMT
+kxOTQ2NDEzMywtMTE3MjAxMjY0NSwtMTIxNzI1NTU5OSwtMTY1
+NDc3MTA1M119
+-->
