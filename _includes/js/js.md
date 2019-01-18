@@ -1,5 +1,5 @@
 <p>Test 1</p>
-<script src="/sdlc-for-rse/assetjs/mermaid.min.js"></script>
+<script src="/sdlc-for-rse/asset/js/mermaid.min.js"></script>
 <script>mermaid.initialize({startOnLoad:true});</script>
 <p>Test 2</p>placeholder
 <!--stackedit_data:
