@@ -40,13 +40,15 @@ Links within these documents may direct the user to:
 ### 2. SDLC Stages and Processes
 The SDLC can very briefly represented in a flow diagram, but separate details will be provided elsewhere.
 
-{% include diagrams/basic_sdlc %}
+{% include diagrams/basic_sdlc.md %}
+
+
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTEyODQwOCwtMjEyODc3Nzc5LC05Nj
-I2MzU2MiwtMTU2MTM3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0
-MTMzLC0xMTcyMDEyNjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMD
-UzXX0=
+eyJoaXN0b3J5IjpbMTE0MTk2MDE1MywxMDU5MTI4NDA4LC0yMT
+I4Nzc3NzksLTk2MjYzNTYyLC0xNTYxMzcyOTk3LDIwNzkwNTg1
+OTQsLTE5MTk0NjQxMzMsLTExNzIwMTI2NDUsLTEyMTcyNTU1OT
+ksLTE2NTQ3NzEwNTNdfQ==
 -->
