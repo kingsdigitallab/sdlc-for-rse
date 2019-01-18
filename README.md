@@ -2,7 +2,7 @@
 
 A toolkit for documentation and processes for software development in a research setting. 
 
-This repository was established by [King's Digital Lab](www.kdl.kcl.ac.uk)  (KDL) on Aug 22 2018 and it is intended to be an evolving piece of work, enriched with community contributions.
+This repository was established by [King's Digital Lab](https://www.kdl.kcl.ac.uk)  (KDL) on Aug 22 2018 and it is intended to be an evolving piece of work, enriched with community contributions.
 
 The documentation found here represents the KDL's implementation of an Agile software development lifecycle, pragmatically adapted to suit the particular requirements and peculiarities of Research Software Development. 
 
@@ -41,11 +41,12 @@ Links within these documents may direct the user to:
 ### 2. SDLC Stages and Processes
 The SDLC can represented in a flow diagram thus:
 
-```mermaid
+<div class="mermaid">
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-```
+</div>
+
 {% include js/js.md %}
