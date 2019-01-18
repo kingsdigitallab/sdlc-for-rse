@@ -53,7 +53,7 @@ graph TB
 Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal document)<br/><b>Goals: </b>Understand business case<br/><b>Roles: </b>Analyst, Project Manager, Director</small>"] --Go?--> 
 Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal for peer review)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities and make final GO/NO GO assessment<br/><b>Roles: </b>Analyst, Project Manager, Developer, UI/UX, Systems Manager</small>")
 Pre--No go?-->endPre[Do not proceed]
-Feas--Feasible?-->Found("Foundations)
+Feas--Feasible?-->Found("<b>Foundations</b>")
 Feas--Not feasible?-->endPre
 Found-->Evo(Evolutionary development)
 Evo-->Dep(Deployment)
@@ -65,6 +65,7 @@ Dep-->Post[Post project]
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjMxNjAyNiwtMTkxOTQ2NDEzMywtMT
-E3MjAxMjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MTA1M119
+eyJoaXN0b3J5IjpbLTE4Mzg2ODcyODcsLTE5MTk0NjQxMzMsLT
+ExNzIwMTI2NDUsLTEyMTcyNTU1OTksLTE2NTQ3NzEwNTNdfQ==
+
 -->
