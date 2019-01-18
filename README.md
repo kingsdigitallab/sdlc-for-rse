@@ -38,28 +38,15 @@ Links within these documents may direct the user to:
  - additional documentation
 
 ### 2. SDLC Stages and Processes
-The SDLC can represented in a flow diagram thus:
+The SDLC can very briefly represented in a flow diagram, but separate details will be provided elsewhere.
 
-<div class="mermaid">
-graph TB
-Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal document)<br/><b>Goals: </b>Understand business case<br/><b>Roles: </b>Analyst, Project Manager, Director</small>"] --Go?--> 
-
-Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal for peer review),<br/>High Level Cost --> Product Quote (if feasible)<br/><b>Goals: </b> Assess technical feasibility, clarify roles and responsibilities<br/> and make final GO/NO GO assessment.<br/><b>Roles: </b>Analyst, Project Manager, Developer, UI/UX, Systems Manager</small>")
-Pre--No go?-->endPre[Do not proceed]
-
-Feas--Feasible?-->Found("<b>Foundations</b><br/><small><b>Products: </b></small>")
-Feas--Not feasible?-->endPre
-Found-->Evo(Evolutionary development)
-Evo-->Dep(Deployment)
-Dep--Review-->Evo
-Dep-->Post[Post project]
-</div>
-
+{% include diagrams/basic_sdlc %}
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEzNzI5OTcsMjA3OTA1ODU5NCwtMT
-kxOTQ2NDEzMywtMTE3MjAxMjY0NSwtMTIxNzI1NTU5OSwtMTY1
-NDc3MTA1M119
+eyJoaXN0b3J5IjpbMTA1OTEyODQwOCwtMjEyODc3Nzc5LC05Nj
+I2MzU2MiwtMTU2MTM3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0
+MTMzLC0xMTcyMDEyNjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMD
+UzXX0=
 -->
