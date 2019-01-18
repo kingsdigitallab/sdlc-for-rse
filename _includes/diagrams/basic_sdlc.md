@@ -1,4 +1,4 @@
-````mermaid
+<div class="mermaid">
 
 graph TB
 Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal record document)<br/><b>Goals: </b>Understand business case, high-level requirements,<br/>funding landscape etc.<br/><!--<b>Roles: </b>Analyst, Project Manager, Director''></small>"] --Go?--> 
@@ -28,7 +28,8 @@ Post-->Maint["<b>Maintenance</b>"]
 
 Maint-->Evo
 
-
+</div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg0MzM4NiwtMTY5MTQ1MDU2OF19
+eyJoaXN0b3J5IjpbMTY4NDYyMTU3OCwtMTk2ODQzMzg2LC0xNj
+kxNDUwNTY4XX0=
 -->
