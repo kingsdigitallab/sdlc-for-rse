@@ -41,14 +41,6 @@ Links within these documents may direct the user to:
 The SDLC can represented in a flow diagram thus:
 
 <div class="mermaid">
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B - -> D{Rhombus}
-C --> D
-</div>
-
-```mermaid 
 graph TB
 Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal document)<br/><b>Goals: </b>Understand business case<br/><b>Roles: </b>Analyst, Project Manager, Director</small>"] --Go?--> 
 
@@ -61,13 +53,13 @@ Found-->Evo(Evolutionary development)
 Evo-->Dep(Deployment)
 Dep--Review-->Evo
 Dep-->Post[Post project]
-
+</div>
 
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NTE5NDQxLDIwNzkwNTg1OTQsLTE5MT
-k0NjQxMzMsLTExNzIwMTI2NDUsLTEyMTcyNTU1OTksLTE2NTQ3
-NzEwNTNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjEzNzI5OTcsMjA3OTA1ODU5NCwtMT
+kxOTQ2NDEzMywtMTE3MjAxMjY0NSwtMTIxNzI1NTU5OSwtMTY1
+NDc3MTA1M119
 -->
