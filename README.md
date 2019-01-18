@@ -41,7 +41,7 @@ Links within these documents may direct the user to:
 The SDLC can very briefly represented in a flow diagram, but separate details will be provided elsewhere.
 
 {% include diagrams/basic_sdlc %}
-
+<div class="mermaid">
 ```mermaid
 graph TB
 Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal record document)<br/><b>Goals: </b>Understand business case, high-level requirements,<br/>funding landscape etc.<br/><!--<b>Roles: </b>Analyst, Project Manager, Director''></small>"] --Go?--> 
@@ -69,12 +69,13 @@ Post-->decom["<b>Decommissioning</b><br/><small>
 
 Post-->Maint["<b>Maintenance</b>"]
 
-Maint-->
+Maint-->Evo
+</div>
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTgyNzg5MiwtMjEyODc3Nzc5LC05Nj
-I2MzU2MiwtMTU2MTM3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0
-MTMzLC0xMTcyMDEyNjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMD
-UzXX0=
+eyJoaXN0b3J5IjpbLTEyNTkxOTE5NzcsLTIxMjg3Nzc3OSwtOT
+YyNjM1NjIsLTE1NjEzNzI5OTcsMjA3OTA1ODU5NCwtMTkxOTQ2
+NDEzMywtMTE3MjAxMjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MT
+A1M119
 -->
