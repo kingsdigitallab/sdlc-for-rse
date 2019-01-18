@@ -62,17 +62,19 @@ Dep-->cF("<b>Change freeze</b><br/><small><b>Goals: </b>Ensure that Minimum Viab
 cF-->Post["<b>Post project</b><br/><small>
 <b>Goals: </b>Assess project outcomes.<br/>Ensure appropriate lifespan for project (as agreed during Feasibility.<br/>Define <b>Service Level Agreement </b> with project stakeholders.<br/>
 Follow robust archiving procedures.<br/>
-<b>Products: </b>Project Review Report, Service Lev</small>"]
+<b>Products: </b>Project Review Report, Service Level Agreement</small>"]
 
 Post-->decom["<b>Decommissioning</b><br/><small>
 </small>"]
 
+Post-->Maint["<b>Maintenance</b>"]
 
+Maint-->
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY1NjQxNDksLTIxMjg3Nzc3OSwtOT
-YyNjM1NjIsLTE1NjEzNzI5OTcsMjA3OTA1ODU5NCwtMTkxOTQ2
-NDEzMywtMTE3MjAxMjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MT
-A1M119
+eyJoaXN0b3J5IjpbLTU1MTgyNzg5MiwtMjEyODc3Nzc5LC05Nj
+I2MzU2MiwtMTU2MTM3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0
+MTMzLC0xMTcyMDEyNjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMD
+UzXX0=
 -->
