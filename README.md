@@ -49,18 +49,20 @@ Pre--No go?-->endPre[Do not proceed]
 
 Feas--Feasible?-->Kick("<b>Kick-off</b>")
 Feas--Not feasible?-->endPre
-Feas-->(Kick)
+Feas-->Kick
 Kick-->Evo("<b>Evolutionary development</b><br/><small><b>Products: </b></small>")
-Evo-->Dep(Deployment)
-Dep--Review-->Evo
+Evo--"Timebox review(s)"-->Dep(Deployment)
+Dep--Increment review-->Evo
 Dep-->Post[Post project]
+
+Dep-->chngFreez
 
 
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzQ5OTMzLC05NjI2MzU2MiwtMTU2MT
-M3Mjk5NywyMDc5MDU4NTk0LC0xOTE5NDY0MTMzLC0xMTcyMDEy
-NjQ1LC0xMjE3MjU1NTk5LC0xNjU0NzcxMDUzXX0=
+eyJoaXN0b3J5IjpbMTQyMTQ3MDgzOCwtOTYyNjM1NjIsLTE1Nj
+EzNzI5OTcsMjA3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAx
+MjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MTA1M119
 -->
