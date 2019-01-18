@@ -1,4 +1,4 @@
- # A Software Development Life Cycle for Research Software Engineering
+# A Software Development Life Cycle for Research Software Engineering
 
 A toolkit for documentation and processes for software development in a research setting. 
 
