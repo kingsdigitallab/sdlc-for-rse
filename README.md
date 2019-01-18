@@ -50,10 +50,12 @@ C --> D
 
 ```mermaid 
 graph TB
-Pre[#Pre-project processes ] --GO/NO GO --> B((Circle))
+Pre[Pre-project stage ] --GO --> 
+Feas(Feasibility)
+Pre
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNTkyMjY4XX0=
+eyJoaXN0b3J5IjpbLTEzOTk2MjA0MzRdfQ==
 -->
