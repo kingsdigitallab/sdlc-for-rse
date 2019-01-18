@@ -41,7 +41,6 @@ Links within these documents may direct the user to:
 ### 2. SDLC Stages and Processes
 The SDLC can represented in a flow diagram thus:
 
-```mermaid
 <div class="mermaid">
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
@@ -49,5 +48,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 </div>
-```
+
 {% include js/js.md %}
