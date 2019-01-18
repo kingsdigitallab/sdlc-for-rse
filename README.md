@@ -49,13 +49,11 @@ C --> D
 </div>
 
 ```mermaid 
-graph LR
-Pre[Pre-pr] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B - -> D{Rhombus}
-C --> D
+graph TB
+Pre[Pre-project processes] --GO/NO GO --> B((Circle))
+
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzAzMzk1NjBdfQ==
+eyJoaXN0b3J5IjpbLTkwNzMyMDg3M119
 -->
