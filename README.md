@@ -40,6 +40,8 @@ Links within these documents may direct the user to:
 ### 2. SDLC Stages and Processes
 The SDLC can very briefly represented in a flow diagram, but separate details will be provided elsewhere.
 
+{% include diagrams/basic_sdlc %}
+
 ```mermaid
 graph TB
 Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal record document)<br/><b>Goals: </b>Understand business case, high-level requirements,<br/>funding landscape etc.<br/><!--<b>Roles: </b>Analyst, Project Manager, Director''></small>"] --Go?--> 
@@ -57,13 +59,14 @@ Dep--Increment review-->Evo
 
 Dep-->cF("<b>Change freeze</b><br/><small><b>Goals: </b>Ensure that Minimum Viable Product is not compromised by late<br/>changes in scope, design or functionality, by directing remaining<br/>resources effectively</small>")
 
-cF-->Post[Post project]
+cF-->Post["<b>Post project</b><br/>"]
 
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg3Nzc3OSwtOTYyNjM1NjIsLTE1Nj
-EzNzI5OTcsMjA3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAx
-MjY0NSwtMTIxNzI1NTU5OSwtMTY1NDc3MTA1M119
+eyJoaXN0b3J5IjpbMTEwNzY1NjQ5LC0yMTI4Nzc3NzksLTk2Mj
+YzNTYyLC0xNTYxMzcyOTk3LDIwNzkwNTg1OTQsLTE5MTk0NjQx
+MzMsLTExNzIwMTI2NDUsLTEyMTcyNTU1OTksLTE2NTQ3NzEwNT
+NdfQ==
 -->
