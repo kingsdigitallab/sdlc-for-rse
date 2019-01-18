@@ -56,10 +56,13 @@ Pre--No go-->endPre((Do not proceed))
 Feas--Feasible-->Found(Foundations)
 Feas--Not feasible-->endPre
 Found-->Evo(Evolutionary development)
-Evo-->>Evo
+Evo-->Dep(Deployment)
+Dep-->Evo
+Dep-->Post[Post project]
+
 
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTk3MTQwNl19
+eyJoaXN0b3J5IjpbLTU2MjMzNTUyMF19
 -->
