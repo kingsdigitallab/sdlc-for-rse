@@ -50,7 +50,7 @@ C --> D
 
 ```mermaid 
 graph TB
-Pre[Pre-project stage</ br> ] --Go?--> 
+Pre[<strong>Pre-project stage</strong><br/>Terms of reference created ] --Go?--> 
 Feas(Feasibility)
 Pre--No go?-->endPre[Do not proceed]
 Feas--Feasible?-->Found(Foundations)
@@ -65,5 +65,5 @@ Dep-->Post[Post project]
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1OTY4MzAxXX0=
+eyJoaXN0b3J5IjpbODk3MDc4MTkxXX0=
 -->
