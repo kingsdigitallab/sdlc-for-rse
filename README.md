@@ -51,7 +51,7 @@ C --> D
 ```mermaid 
 graph TB
 Pre["<b>Pre-project stage</b><br/><small><b>Products: </b> Terms of reference (Internal document)<br/><b>Goals: </b>Understand business case<br/><b>Roles: </b>Analyst, Project Manager, Director</small>"] --Go?--> 
-Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal for peer review)</small>")
+Feas("<b>Feasibility</b><br/><small><b>Products: </b>Feasibility (Internal for peer review)<</small>")
 Pre--No go?-->endPre[Do not proceed]
 Feas--Feasible?-->Found(Foundations)
 Feas--Not feasible?-->endPre
@@ -65,6 +65,6 @@ Dep-->Post[Post project]
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIwMTI2NDUsLTEyMTcyNTU1OTksLT
-E2NTQ3NzEwNTNdfQ==
+eyJoaXN0b3J5IjpbMTYxMTk1NTExLC0xMTcyMDEyNjQ1LC0xMj
+E3MjU1NTk5LC0xNjU0NzcxMDUzXX0=
 -->
