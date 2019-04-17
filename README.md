@@ -8,7 +8,7 @@ The documentation found here represents the KDL's implementation of an Agile sof
 ## How to use this resource
 *Document guidance and templates have been written in simple Markdown. They can be copied and pasted into most desktop word processing software or converted via a variety of third party tools into formats that can be easily used offline.*
 
-### 1. Getting started test
+### 1. Getting started
 The core component of this toolkit is the [document templates](/sdlc-for-rse/document_template_index) that underpin the various stages of the SDLC.  In addition to the document templates, there are guidance documents which offer advice on how to populate the documents and what factors to consider when planning a RSE project.
 
 Documents are prefixed alphabetically in expected order of use. The alphabetic character is followed by a number which will denotes whether the document is 1, a template or 2, an accompanying guidance document.
@@ -45,9 +45,9 @@ The SDLC can very briefly represented in a flow diagram, but separate details wi
 
 {% include js/js.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjk0ODEzMywtMTgwOTgxMTIzLC0zNj
-k4MDY3OTYsMTE0MTk2MDE1MywxMDU5MTI4NDA4LC0yMTI4Nzc3
-NzksLTk2MjYzNTYyLC0xNTYxMzcyOTk3LDIwNzkwNTg1OTQsLT
-E5MTk0NjQxMzMsLTExNzIwMTI2NDUsLTEyMTcyNTU1OTksLTE2
-NTQ3NzEwNTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MDk4MTEyMywxMjIyOTQ4MTMzLC0xOD
+A5ODExMjMsLTM2OTgwNjc5NiwxMTQxOTYwMTUzLDEwNTkxMjg0
+MDgsLTIxMjg3Nzc3OSwtOTYyNjM1NjIsLTE1NjEzNzI5OTcsMj
+A3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAxMjY0NSwtMTIx
+NzI1NTU5OSwtMTY1NDc3MTA1M119
 -->
