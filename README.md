@@ -26,7 +26,7 @@ All branding and commercially sensitive information has been removed from the or
 It is recommended that these completed templates be stored as project governance records in secure storage with access shared by the RSE team. Some of these documents are intended for internal audiences only, and these will be identified clearly with the header **"For internal use only"**
 
 #### 1.2 Document guidance
-Each document template has a [guidance document]()/sdlc-for-rse/document_guidance_index which explains the purpose of the document and offers useful direction for ensuring that the right information is gathered at the right time.
+Each document template has a [guidance document](/sdlc-for-rse/document_guidance_index) which explains the purpose of the document and offers useful direction for ensuring that the right information is gathered at the right time.
 
 Each guidance document may contain one or more matrices of prompts and questions to help ensure productive meetings and minimise misunderstandings in the later stages of development. These prompts are not intended to be exhaustive and each research project will have complex and individual aspects, but it is hoped that these suggestions will stimulate productive communication.
 
@@ -44,10 +44,5 @@ The SDLC can very briefly represented in a flow diagram, but separate details wi
 
 
 {% include js/js.md %}
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk4MTEyMywxMjIyOTQ4MTMzLC0xOD
-A5ODExMjMsLTM2OTgwNjc5NiwxMTQxOTYwMTUzLDEwNTkxMjg0
-MDgsLTIxMjg3Nzc3OSwtOTYyNjM1NjIsLTE1NjEzNzI5OTcsMj
-A3OTA1ODU5NCwtMTkxOTQ2NDEzMywtMTE3MjAxMjY0NSwtMTIx
-NzI1NTU5OSwtMTY1NDc3MTA1M119
--->
+
+
