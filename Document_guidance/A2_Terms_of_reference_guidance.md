@@ -96,10 +96,11 @@ The matrix below offers some prompts and key questions for effectively completin
 
 | Example questions and prompts |Check||
 |:---|---|---|
-|Can the RSE team expect reasonable and equal collaboration with the project team and its members? What can be implemented to mitigate any identified risks?|
+|Can the RSE team expect reasonable and equal collaboration with the project team and its members? What can be implemented to mitigate any identified risks?| |
+| | |
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlcm1zIG9mIFJlZmVyZW
 5jZSBHdWlkYW5jZVxuYXV0aG9yOiBOZWlsIEpha2VtYW5cbmRh
-dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6Wy0xNzEwMD
-c1MTQwLC0zNTg5NjA3NTQsMTE0NzgyNTA0XX0=
+dGU6ICcyMDE4LTExLTI4J1xuIiwiaGlzdG9yeSI6WzIxNDQ4MD
+YwMzQsLTM1ODk2MDc1NCwxMTQ3ODI1MDRdfQ==
 -->
