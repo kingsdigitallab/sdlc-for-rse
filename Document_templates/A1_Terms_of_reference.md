@@ -39,24 +39,27 @@ Risks identified at this point, including identified issues
 
   
 
-## TECHNICAL CONSIDERATIONS
+## TECHNICAL CONSIDERATIONS  
+  
+ <br/><br/>
   
 
 ## RESEARCH OUTPUTS
-
+<br/><br/>
 
 ## IMPACT
-
+<br/><br/>
   
 
 ## RELATED RESOURCES
 
 A list of links to other documents or resources
 
+<br/><br/>
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI2NzY1MzgsLTUxNzM4MjY3OCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTg0ODcwMTc4LC01MTczODI2NzgsNzMwOT
+k4MTE2XX0=
 -->
