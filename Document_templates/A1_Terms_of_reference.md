@@ -5,8 +5,8 @@
 ##### Terms of Reference test
 
 |  |  |
-|--|--|
-| **Author** |  |
+|:--|--|
+| **Author** | &nbsp; &nbsp; |
 | **Date** |  |
 | **Contact(s)** |  |
 | **Participants** |  |
@@ -57,9 +57,10 @@ A list of links to other documents or resources
 
 <br/><br/>
 
+{% include js/js.md %}
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NTkxNzc0LC01MTczODI2NzgsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY2NzI2MzkyNCwxOTU4MDM4NTIsNjc3NT
+kxNzc0LC01MTczODI2NzgsNzMwOTk4MTE2XX0=
 -->
