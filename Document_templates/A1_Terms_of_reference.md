@@ -53,10 +53,9 @@ Risks identified at this point, including identified issues
 A list of links to other documents or resources
 
 
-{% include js/js.md %}
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI2ODI4MjYsLTUxNzM4MjY3OCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTExNjI2NTE0OCwtNTE3MzgyNjc4LDczMD
+k5ODExNl19
 -->
