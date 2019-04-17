@@ -3,7 +3,7 @@
 
 [A1 Terms of Reference](/sdlc-for-rse/Document_templates/A1_Terms_of_reference)
 
-[B1 Feasibility](/sdlc-for-rse/Document_templates/B1_Feasibility)
+[F2 Feasibility](/sdlc-for-rse/Document_templates/F2_Feasibility)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjU0MDE3OTYxXX0=
 -->
