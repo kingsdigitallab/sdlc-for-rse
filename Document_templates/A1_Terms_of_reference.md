@@ -6,11 +6,11 @@
 
 |  |  |
 |:--|--|
-| **Author** | &nbsp; &nbsp; &nbsp; |
-| **Date** | &nbsp; &nbsp; &nbsp; |
-| **Contact(s)** | &nbsp; &nbsp; &nbsp; |
-| **Participants** | &nbsp; &nbsp; &nbsp; |
-| **Funding (W Dates)** | &nbsp; &nbsp; &nbsp; |
+| **Author** | ------------------------------ |
+| **Date** | ------------------------------ |
+| **Contact(s)** | ------------------------------ |
+| **Participants** | ------------------------------ |
+| **Funding (W Dates)** | ------------------------------ |
 
   
 
@@ -26,11 +26,11 @@ List of requirements (functionalities, software and infrastructure)
 
 |  |  |
 |--|--|
-| **M** | &nbsp; &nbsp; &nbsp; |
-| **M** | &nbsp; &nbsp; &nbsp; |
-| **S** | &nbsp; &nbsp; &nbsp; |
-| **S** | &nbsp; &nbsp; &nbsp; |
-| **S** | &nbsp; &nbsp; &nbsp; |
+| **M** | ------------------------------ |
+| **M** | ------------------------------ |
+| **S** | ------------------------------ |
+| **S** | ------------------------------ |
+| **S** | ------------------------------ |
 
   
 ## RISKS & ISSUES
@@ -61,7 +61,7 @@ A list of links to other documents or resources
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDc1MzQyMCwxOTU4MDM4NTIsLTY2Nz
+eyJoaXN0b3J5IjpbLTQwODYwNDQ4NCwxOTU4MDM4NTIsLTY2Nz
 I2MzkyNCwxOTU4MDM4NTIsNjc3NTkxNzc0LC01MTczODI2Nzgs
 NzMwOTk4MTE2XX0=
 -->
