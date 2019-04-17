@@ -16,7 +16,7 @@
 
 ## OVERVIEW
 ##### Project overview
-
+<br/><br/>
   
 
 ## BACKGROUND CONTEXT
@@ -36,7 +36,7 @@ List of requirements (functionalities, software and infrastructure)
 ## RISKS & ISSUES
 
 Risks identified at this point, including identified issues
-
+<br/><br/>
   
 
 ## TECHNICAL CONSIDERATIONS  
@@ -60,6 +60,6 @@ A list of links to other documents or resources
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODcwMTc4LC01MTczODI2NzgsNzMwOT
+eyJoaXN0b3J5IjpbNjc3NTkxNzc0LC01MTczODI2NzgsNzMwOT
 k4MTE2XX0=
 -->
