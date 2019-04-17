@@ -6,7 +6,7 @@
 
 |  |  |
 |:--|--|
-| **Author** | |
+| **Author** | <pre>&nbsp;   </pre> |
 | **Date** |  |
 | **Contact(s)** |  |
 | **Participants** |  |
@@ -61,7 +61,7 @@ A list of links to other documents or resources
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODAzODUyLC02NjcyNjM5MjQsMTk1OD
-AzODUyLDY3NzU5MTc3NCwtNTE3MzgyNjc4LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbLTE3ODYzODc4ODksMTk1ODAzODUyLC02Nj
+cyNjM5MjQsMTk1ODAzODUyLDY3NzU5MTc3NCwtNTE3MzgyNjc4
+LDczMDk5ODExNl19
 -->
