@@ -40,7 +40,6 @@ Risks identified at this point, including identified issues
   
 
 ## TECHNICAL CONSIDERATIONS
-
   
 
 ## RESEARCH OUTPUTS
@@ -58,6 +57,6 @@ A list of links to other documents or resources
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU3NzA5ODQsLTUxNzM4MjY3OCw3Mz
+eyJoaXN0b3J5IjpbLTE2NjI2NzY1MzgsLTUxNzM4MjY3OCw3Mz
 A5OTgxMTZdfQ==
 -->
