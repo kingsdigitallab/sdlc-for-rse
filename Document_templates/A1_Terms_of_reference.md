@@ -5,7 +5,7 @@
 ##### Terms of Reference test
 
 |  |  |
-|--|--|
+|:--|--|
 | **Author** |  |
 | **Date** |  |
 | **Contact(s)** |  |
@@ -60,6 +60,6 @@ A list of links to other documents or resources
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NTkxNzc0LC01MTczODI2NzgsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyNjU4NTc2NjIsNjc3NTkxNzc0LC01MT
+czODI2NzgsNzMwOTk4MTE2XX0=
 -->
