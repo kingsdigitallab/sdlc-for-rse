@@ -216,9 +216,9 @@
 <p>Justification for go or no go of the project<br>
 <br></p>
 <h2 id="approval">APPROVAL</h2>
-<p>[KDL reviewer]</p>
-<p>Pamela Mellen, KDL Project Manager</p>
-<p>Dr. James Smithies, KDL Director<br>
+<p>[Reviewer]</p>
+<p>Project Manager</p>
+<p>Director<br>
 <br></p>
 <p>{% include js/js.md %}</p>
 <blockquote>
