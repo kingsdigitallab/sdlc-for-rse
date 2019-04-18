@@ -169,7 +169,7 @@
 <td></td>
 </tr>
 </tbody>
-</table><p><strong>% of overall bid</strong> - as a rule, large grants should budget 10%-20% of their funding for the digital component.</p>
+</table><p><strong>% of overall bid</strong> </p>
 <p><br></p>
 <p>Example 2 - summary costing for use in Product Quote</p>
 
