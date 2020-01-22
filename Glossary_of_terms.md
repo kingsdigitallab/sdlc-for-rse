@@ -8,6 +8,8 @@ A regular *internal* team meeting for the RSE team to discuss new project ideas 
 A term used to describe the different modes of interaction that a variety of audiences will want to have with a digital resource. It is a helpful concept particularly for non-technical partners as it encourages partners to describe a typical user scenario in plain language using a layman's terminology. Examples might be:  
 *As an archivist, I wish to be able to identify items in the collection that mention [term A] and [term B], but exclude [term C]*  
 *As a primary school teacher. I wish to ...*
+Scenarios are drafted and discussed with the project team. Ideally use cases should align  with high level requirements defined in the project Product Quote to drive data model definition and development.
+Use cases should ideally lead to identification of user testing units later on in the evolutionary development cycle.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDYzNDE1OTgsLTc0Mjg2MDQxN119
 -->
