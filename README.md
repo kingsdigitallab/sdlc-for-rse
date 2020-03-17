@@ -1,5 +1,5 @@
 # A Software Development Life Cycle for Research Software Engineering
-A toolkit for documentation and processes for software development in a research setting. 
+A toolkit for documentation and processes for software development in a research setting, released under the MIT license.
 
 This repository was established by [King's Digital Lab](https://www.kdl.kcl.ac.uk)  (KDL) on Aug 22 2018 and it is intended to be an evolving piece of work, enriched with community contributions.
 
