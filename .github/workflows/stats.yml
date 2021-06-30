@@ -1,0 +1,13 @@
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  # Allow for running this manually.
+  workflow_dispatch:
+
+jobs:
+  j1:
+    name: stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: run-ghrs
+        uses: jgehrcke/github-repo-stats@v1.1.0
